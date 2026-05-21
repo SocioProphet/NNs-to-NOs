@@ -1,6 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2506.10973-b31b1b.svg?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.10973)
-
-[![DOI](https://zenodo.org/badge/988536840.svg)](https://doi.org/10.5281/zenodo.20335279)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.10973-b31b1b.svg?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.10973) [![DOI](https://zenodo.org/badge/988536840.svg)](https://doi.org/10.5281/zenodo.20335279)
 
 # Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning
 
